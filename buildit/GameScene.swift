@@ -22,6 +22,7 @@ var _buildItem09:SKSpriteNode = SKSpriteNode(imageNamed:"Hotel-Large Suit")
 var _buildItem10:SKSpriteNode = SKSpriteNode(imageNamed:"Shop-Dispenser")
 var _buildItem11:SKSpriteNode = SKSpriteNode(imageNamed:"Shop-40x20")
 
+
 class GameScene: SKScene {
     var buildMenu: SKNode! = nil
     let myLabel = SKLabelNode(fontNamed:"Chalkduster")
